@@ -1,0 +1,57 @@
+body
+{
+    background: #c5c5c5f2;
+    margin: 0;
+}
+.head
+{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.top
+{
+    text-align: center;
+}
+img{
+    width: 20%; 
+    margin-right: 10px;
+}
+
+.animal1, .animal2, .animal3
+{
+    display: flex;
+    margin-bottom: 10px;
+    padding: 0 5rem;
+}
+
+.story
+{
+    background: #1a4086f2;
+    width: auto;
+    color: white;
+    padding: 5px 13px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.aboutUs
+{
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+a
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(46, 46, 173);
+    font-weight: bold;
+}
+.message
+{
+    padding: 30px;
+    margin: 30px;
+    font-size: 20px;
+}
